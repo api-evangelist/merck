@@ -1,7 +1,11 @@
 aid: merck
-url: https://raw.githubusercontent.com/api-evangelist/merck/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/merck/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.merck.com
+description: >-
+  At Merck, we're following the science to tackle some of the world's greatest health
+  threats. Get a glimpse of how we work to improve lives.
