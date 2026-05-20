@@ -17,6 +17,10 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Merck
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/merck
   - type: Website
     url: https://www.merck.com
 maintainers:
