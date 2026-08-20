@@ -20,6 +20,10 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/merck.png
 tags:
   - Fortune 500
   - Healthcare
+  - Pharmaceuticals
+tags_raw:
+  - Fortune 500
+  - Healthcare
   - Pharmaceutical
 url: >-
   https://raw.githubusercontent.com/api-evangelist/merck/refs/heads/main/apis.yml
