@@ -5,6 +5,17 @@ description: >-
   health threats. Get a glimpse of how we work to improve lives. No public APIs
   or developer portal have been identified for Merck.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
