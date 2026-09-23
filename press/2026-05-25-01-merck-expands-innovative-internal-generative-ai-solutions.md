@@ -1,7 +1,9 @@
 ---
 title: Merck Expands Innovative Internal Generative AI Solutions ...
 url: https://www.merck.com/news/merck-expands-innovative-internal-generative-ai-solutions-helping-to-deliver-medicines-to-patients-faster/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Merck" press release artificial intelligence'
 position: 1
 source: serpapi-google

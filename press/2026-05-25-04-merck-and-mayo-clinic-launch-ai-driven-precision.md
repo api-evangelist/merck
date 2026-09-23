@@ -1,7 +1,9 @@
 ---
 title: Merck and Mayo Clinic launch AI-driven precision ...
 url: https://www.2minutemedicine.com/merck-and-mayo-clinic-launch-ai-driven-precision-medicine-lab/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Merck" press release artificial intelligence'
 position: 4
 source: serpapi-google

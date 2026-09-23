@@ -1,7 +1,9 @@
 ---
 title: Merck and Google Cloud Partner to Accelerate Agentic AI ...
 url: https://www.merck.com/news/merck-and-google-cloud-partner-to-accelerate-agentic-ai-enterprise-transformation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Merck" press release artificial intelligence'
 position: 3
 source: serpapi-google
